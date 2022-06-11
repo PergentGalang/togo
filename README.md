@@ -136,8 +136,9 @@ AKARU Todo API
 ### Add ENV file
 <details>
 <p> ATLAS_URI = mongodb+srv://{username}:{password}@cluster0.3nk8zqt.mongodb.net/akaru?retryWrites=true&w=majority. </p>
-
+<p> Username and Password of Database <p>
 <p> I will attach the username and password of my database in the email. <p>
+
 
 
 
